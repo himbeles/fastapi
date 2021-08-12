@@ -1,6 +1,6 @@
 # Security Policy
 
-Security is very important for FastAPI and its community. 🔒
+Security is very important for FastAPI and its communi
 
 Learn more about it below. 👇
 
